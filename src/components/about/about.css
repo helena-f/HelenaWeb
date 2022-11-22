@@ -57,5 +57,11 @@
 
 .about__content p {
     margin: 2rem 0 2.6rem;
-    color: var(--color-light);
+    color: var(--color-light)
 }
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }

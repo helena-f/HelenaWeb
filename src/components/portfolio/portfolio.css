@@ -1,0 +1,22 @@
+.container.portfolio__container {
+    width: 40%;
+}
+
+.portfolio__item-image {
+    width: 12rem;
+    overflow: hidden;
+    margin: 0 auto 1rem;
+    
+}
+
+.portfolio__item {
+    background: var(--color-bg-varient);
+    text-align: center;
+    padding: 2rem;
+    border-radius: 2rem;
+    user-select: none;
+}
+
+#center {
+    text-align: center;
+}

@@ -13,12 +13,15 @@ header {
 .me {
     background: var(--color-primary);
     width: 22rem;
-    height: 29rem;
-    position: absolute;
-    left: 30%;
+    height: 28rem;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
     border-radius: 12rem;
+    margin-top: 20px;
     overflow: hidden;
 }
+
 
 .scroll__down {
     position: absolute;
