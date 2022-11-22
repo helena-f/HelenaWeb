@@ -27,9 +27,24 @@ const data = [
   {
     image: ART3,
     title: 'Glass'
+  },
+  {
+    image: ART4,
+    title: 'Light'
+  },
+  {
+    image: ART5,
+    title: 'Charcoal Model Study'
+  },
+  {
+    image: ART6,
+    title: 'Seas'
+  },
+  {
+    image: ART7,
+    title: 'Picturesque'
   }
 ]
-
 
 const Portfolio = () => {
   return (
