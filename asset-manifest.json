@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/HelenaWeb/static/css/main.90d7e3ce.css",
+    "main.js": "/HelenaWeb/static/js/main.cb0a6deb.js",
+    "static/media/me.jpeg": "/HelenaWeb/static/media/me.83af834891191830ad0f.jpeg",
+    "static/media/6.jpg": "/HelenaWeb/static/media/6.31aa01614292281275fd.jpg",
+    "static/media/1.jpg": "/HelenaWeb/static/media/1.58cbc112fbe88dddd164.jpg",
+    "static/media/5.jpg": "/HelenaWeb/static/media/5.d15ccbe87faee1a11464.jpg",
+    "static/media/2.jpg": "/HelenaWeb/static/media/2.281e8982d6fa2979e9b8.jpg",
+    "static/media/3.jpg": "/HelenaWeb/static/media/3.966d4f501f2d89cf313f.jpg",
+    "static/media/4.jpg": "/HelenaWeb/static/media/4.705273d79dc8f2beed03.jpg",
+    "static/media/me-about.png": "/HelenaWeb/static/media/me-about.fa7ea9b730864cf78086.png",
+    "static/media/7.jpg": "/HelenaWeb/static/media/7.2c6b97460a8fe1f57ec0.jpg",
+    "static/media/bg-texture.png": "/HelenaWeb/static/media/bg-texture.6391b207f11a8e56d70c.png",
+    "index.html": "/HelenaWeb/index.html",
+    "main.90d7e3ce.css.map": "/HelenaWeb/static/css/main.90d7e3ce.css.map",
+    "main.cb0a6deb.js.map": "/HelenaWeb/static/js/main.cb0a6deb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90d7e3ce.css",
+    "static/js/main.cb0a6deb.js"
+  ]
+}
