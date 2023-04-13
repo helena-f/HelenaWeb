@@ -1,7 +1,7 @@
 import React from 'react'
 import './header.css'
-import ME from '../../assets/me.jpeg'
- 
+import ME from '../../assets/me2.jpg'
+
 const Header = () => {
   return (
         <header>
@@ -16,5 +16,7 @@ const Header = () => {
         </header>
     )
 }
+
+
 
 export default Header
