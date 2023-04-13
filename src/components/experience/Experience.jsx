@@ -38,7 +38,7 @@ const Experience = () => {
 						<article className='experience__details'>
 							<BsPatchCheckFill />
 							<div>
-								<h4>React.JS</h4>
+								<h4>React</h4>
 								<small className='text-light'>Intermediate</small>
 							</div>
 
@@ -87,21 +87,7 @@ const Experience = () => {
 
 							</div>
 						</article>
-						<article className='experience__details'>
-							<BsPatchCheckFill />
-							<div>
-								<h4>TensorFlow</h4>
-								<small className='text-light'>Experienced</small>
-							</div>
-						</article>
-						<article className='experience__details'>
-							<BsPatchCheckFill />
-							<div>
-								<h4>PyTorch</h4>
-								<small className='text-light'>Intermediate</small>
-							</div>
-
-						</article>
+						
 						<article className='experience__details'>
 							<BsPatchCheckFill />
 							<div>
@@ -116,9 +102,31 @@ const Experience = () => {
 								<h4>Assembly</h4>
 								<small className='text-light'>Beginner</small>
 							</div>
-
 						</article>
-
+						<article className='experience__details'>
+							<BsPatchCheckFill />
+							<div>
+								<h4>TensorFlow</h4>
+							</div>
+						</article>
+						<article className='experience__details'>
+							<BsPatchCheckFill />
+							<div>
+								<h4>PyTorch</h4>
+							</div>
+						</article>
+						<article className='experience__details'>
+							<BsPatchCheckFill />
+							<div>
+								<h4>OpenCV</h4>
+							</div>
+						</article>
+						<article className='experience__details'>
+							<BsPatchCheckFill />
+							<div>
+								<h4>Vuforia</h4>
+							</div>
+						</article>
 					</div>
 				</div>
 			</div>

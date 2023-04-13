@@ -12,9 +12,9 @@
   --color-bg: rgb(40, 48, 60);;
   --color-bg-varient: rgba(41, 59, 85, 0.4);
   --color-primary-varient: rgb(32, 66, 118);
-  --color-primary: rgb(69, 154, 190);
-  --color-white: rgb(208, 182, 182);
-  --color-light: rgba(254, 233, 207, 0.6);
+  --color-primary: rgb(150, 204, 226);
+  --color-white: rgb(242, 212, 212);
+  --color-light: rgba(255, 237, 215, 0.848);
 
   --transition: all 400ms ease;
 

@@ -7,7 +7,7 @@ import 'swiper/css';
 import "swiper/css/pagination";
 import { Pagination, Navigation} from "swiper";
 
-import ART1 from '../../assets/1.jpg'
+import ART1 from '../../assets/art/1.jpg'
 import ART2 from '../../assets/art/2.jpg'
 import ART3 from '../../assets/art/3.jpg'
 import ART4 from '../../assets/art/4.jpg'
@@ -50,8 +50,8 @@ const Portfolio = () => {
   return (
     <section id='portfolio'>
       <h5>Showcase</h5>
-      <h2>Portfolio</h2>
-      <h6 id='center'>Swipe</h6>
+      <h2>Art Portfolio</h2>
+      <h6 id='center'> <i class="arrow left"></i> Swipe <i class="arrow right"></i></h6>
       <Swiper className="container portfolio__container"
       modules={[Pagination, Navigation]}
       spaceBetween={40}
@@ -61,7 +61,7 @@ const Portfolio = () => {
             return (
               <SwiperSlide key={index} className='portfolio__item'>
                 <div className="portfolio__item-image">
-                  <img src={image}/>
+                  <img src={image}/> 
                 </div>
                 <h5 className='art__name'>{title}</h5>
               </SwiperSlide>
