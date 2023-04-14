@@ -14,16 +14,21 @@ const Model = () => {
 						<article className='experience__details'>
 							<div>
 								<h4> Mini-Room Model</h4>
-								<a href="https://helena-f.github.io/3D/" className='text-light link'>Blender 3D Design Custom Room Display.</a>					
+								<a href="https://helena-f.github.io/3D/" className='text-light link'>View 3D Blender Room Display.</a>					
 							</div>
 						</article>
 						<article className='experience__details'>
 							<div>
-								<h4>Machine Learning Algorithms</h4>
-								<a href="https://helena-f.github.io/3D/" className='text-light link'>Blender 3D Design Custom Room Display.</a>					
+								<h4>Research Internship Results</h4>
+								<a href="https://helena-f.github.io/3D/" className='text-light link'>View presentation and paper.</a>					
 							</div>
 						</article>
-
+						<article className='experience__details'>
+							<div>
+								<h4>Music Neural Network</h4>
+								<a href="https://helena-f.github.io/3D/" className='text-light link'>Listen to AI Composer.</a>					
+							</div>
+						</article>
 					</div>
 				</div>
 				<div className="experience__backend">
@@ -31,14 +36,20 @@ const Model = () => {
 					<div className="experience__content">
 						<article className='experience__details'>
 							<div>
-								<h4>Odometry</h4>
-								<a href="https://helena-f.github.io/3D/robotics/" className='text-light link'>View robot and odometry.</a>
+								<h4>Robot Control</h4>
+								<a href="https://helena-f.github.io/3D/robotics.html" className='text-light link'>View robot and control explanation.</a>
 							</div>
 						</article>
 						<article className='experience__details'>
 							<div>
-								<h4>Algorithms</h4>
-								<a href="https://helena-f.github.io/3D/robotics/" className='text-light link'>View robot and odometry.</a>
+								<h4>Pathing Algorithms</h4>
+								<a href="https://helena-f.github.io/3D/robotics/" className='text-light link'>View algorithms and odometry demonstrations.</a>
+							</div>
+						</article>
+						<article className='experience__details'>
+							<div>
+								<h4>Image Recognition</h4>
+								<a href="https://helena-f.github.io/3D/robotics/" className='text-light link'>View image recognition through the years.</a>
 							</div>
 						</article>
 					</div>
