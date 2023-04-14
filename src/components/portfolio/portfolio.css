@@ -9,6 +9,11 @@
     
 }
 
+.slide__text {
+  color: var(--color-light);
+  font-size: smaller;
+}
+
 .portfolio__item {
     background: var(--color-bg-varient);
     text-align: center;
